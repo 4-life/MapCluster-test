@@ -1,0 +1,7 @@
+{
+  "name": "MapCluster",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
